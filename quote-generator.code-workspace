@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../4 - Infinity Scroll/infinite-scroll"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501
+	}
+}
